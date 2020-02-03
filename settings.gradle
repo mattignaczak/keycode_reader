@@ -1,0 +1,2 @@
+include ':app', ':custom_dialog_lib-sbc_debug'
+rootProject.name='BackButtonTesting'
